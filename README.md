@@ -1,8 +1,8 @@
----
-<img align="right" width="150" src="https://count.getloli.com/get/@:layushher?theme=moebooru" alt="🍜">
+[<img align="right" width="140" src="https://count.getloli.com/get/@:layushher?theme=moebooru" alt="🍜">](https://youtu.be/9Z2I6S2ERNg)
 
+---
 ## Hi theree..
-                                                                                                                                         
+
 🍰 I'm mostly interested in **programming languages**.                                                                                                                  
 ⌨️ *Python・Java・C*                                                                                                                                                           
 ☕️ I'm slowly *learning by myself.*                                                                                                                                          
