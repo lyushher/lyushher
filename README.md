@@ -9,8 +9,6 @@
 🍄 *I often share private repositories.*                                                                                                                                   
 🍜 *Song・Code・Design・Series・Drawing・Games*
 
-<img align="left" height="115" alt="🍰" src="https://thumbs.gfycat.com/ThunderousRecklessHumpbackwhale.webp"> <img height="38" src="https://thumbs.gfycat.com/RashGloomyJerboa.webp">
-
 ---
 
 <!--
