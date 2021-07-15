@@ -9,9 +9,7 @@
 
 ---
 
-<!--
-☕️ I'm slowly *learning by myself.*                                                                                                                                          
-🍄 *I often share private repositories.*      
+<!--  
 
 fav themes;
 rule34 / moebooru
