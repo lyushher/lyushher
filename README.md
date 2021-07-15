@@ -4,14 +4,14 @@
 ## Hi theree..
 
 🍰 I'm mostly interested in **programming languages**.                                                                                                                  
-⌨️ *Python・Java・C*                                                                                                                                                           
-☕️ I'm slowly *learning by myself.*                                                                                                                                          
-🍄 *I often share private repositories.*                                                                                                                                   
-🍜 *Song・Code・Design・Series・Drawing・Games*
+⌨️ *Python・Java・C*                                                                                                                                                                                                                                                                                        
+☕️ *Song・Code・Design・Series・Drawing・Games*
 
 ---
 
 <!--
+☕️ I'm slowly *learning by myself.*                                                                                                                                          
+🍄 *I often share private repositories.*      
 
 fav themes;
 rule34 / moebooru
