@@ -1,4 +1,4 @@
-[<img align="right" width="140" src="https://count.getloli.com/get/@:layushher?theme=rule34" alt="🍜">](https://youtu.be/9Z2I6S2ERNg)
+[<img align="right" width="140" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://youtu.be/9Z2I6S2ERNg)
 
 ---
 ## Hi theree..
