@@ -2,10 +2,10 @@
 
 ---
 ## Hi theree..
-
-🍰 I'm mostly interested in **programming languages**.                                                                                                                  
-⌨️ *Python・Java・C*                                                                                                                                                                                                                                                                                        
-☕️ *Song・Code・Design・Series・Drawing・Games*
+                                                                                        
+🍰 I'm mostly interested in **programming languages**.                                                                                                                                                                                                                                                                                                                                                                                                           
+⌨️ *Everything started when I was 13 :)*                                                                                        
+☕️ *Song・Code・Design・Series・Drawing・Games*                                                                                          
 
 ---
 
