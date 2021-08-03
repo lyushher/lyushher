@@ -1,17 +1,15 @@
-[<img align="right" width="121" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://youtu.be/9Z2I6S2ERNg)
+[<img align="right" width="120" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://www.youtube.com/watch?v=z9ydWde3TK8)
 
----
-## Hi theree..
-                                                                                        
-🍰 I'm mostly interested in **programming languages**.                                                                                                                                                                                                                                                                                                                                                                                                           
-⌨️ *Everything started when I was 13 :)*                                                                                        
-☕️ *Song・Code・Design・Series・Drawing・Games*                                                                                          
+# Hi guyss.. 👋🏻
 
----
+*・My name is Firdevs :)*                                                                                                                                                   
+*・I am high school student..*                                                                                                                                                   
+*・I am most interested in programming languages, but other languages are also very interesting!!😋*
 
-<!--  
 
-fav themes;
-rule34 / moebooru
 
--->
+## *~Github Stats Cards*
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lyushher&theme=dracula)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lyushher&theme=dracula)
