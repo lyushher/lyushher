@@ -1,6 +1,6 @@
 [<img align="right" width="120" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://www.youtube.com/watch?v=z9ydWde3TK8)
 
-# Hi guyss.. 👋🏻
+# Hi guyss... 👋🏻
 
 *・My name is Firdevs :)*                                                                                                                                                   
 *・I am high school student..*                                                                                                                                                   
