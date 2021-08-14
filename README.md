@@ -20,6 +20,8 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Summary Card*
+## *~Github Stats*
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
+
+![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)
