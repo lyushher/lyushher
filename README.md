@@ -34,6 +34,17 @@
 <img width="280" src="https://media4.giphy.com/media/OeyAkKTKYSvmw/giphy.gif?"alt="🌵">
 </details>
 
+<details>
+  <summary>🍄 When My Code Work ;</summary>
+<img width="140" src="https://media2.giphy.com/media/10FwycrnAkpshW/giphy.gif?" alt="🍄">
+<img width="115" src="https://media3.giphy.com/media/VekcnHOwOI5So/giphy.gif?" alt="🍄">
+</details>
+
+<details>
+  <summary>🐝 When My Code Doesn't Work ;</summary>
+<img width="200" src="https://media0.giphy.com/media/hR6Q01jCXOr31wctJw/200w.webp?" alt="🐝">
+<img width="120" src="https://media1.giphy.com/media/rlKSFztwbAckcHgGwd/giphy.gif?" alt="🐝">
+</details>
 
 ---
 
