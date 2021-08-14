@@ -26,6 +26,13 @@
 
 ![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)
 
+## ~Want to see some facts?
+
+<details>
+  <summary>🌵 When I'm Coding ;</summary>
+<img width="90" src="https://media2.giphy.com/media/w6TfGhqQCvk7m/giphy.gif?"alt="🌵">
+<img width="280" src="https://media4.giphy.com/media/OeyAkKTKYSvmw/giphy.gif?"alt="🌵">
+</details>
 
 
 ---
