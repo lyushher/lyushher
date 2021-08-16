@@ -20,7 +20,7 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Stats*
+## *~Github Stats* <img src="https://raw.githubusercontent.com/ProfBramble/ProfBramble/main/flyCat.gif" width="50">
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
 
