@@ -1,4 +1,4 @@
-
+[<img align="right" alt="Spotify Now Playing" src="https://spotify-github-profile.vercel.app/api/view.svg?uid=vf6vtgpza9x04qr4o8juxvq0w&theme=novatorem">](https://open.spotify.com/playlist/6aYnq5PIZ0U4biXAiAERj2?si=a81ff787dfd047a4)
 
 # Hello guyss!! 👋🏻
 
