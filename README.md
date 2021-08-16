@@ -3,7 +3,7 @@
 # Hello guyss!! 👋🏻
 
 *・My name is Firdevs :)*                                                                                                                                                    
-*・I am high school student.*  <img align="right" width="122" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">                                                                                                                                                 
+*・I am high school student.*  <img align="right" width="115" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">                                                                                                                                                 
 *・I am most interested in programming languages..*                                                                                                                                                    
 *..butt other languages are also very interesting!!😋*
 
