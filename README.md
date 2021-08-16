@@ -22,11 +22,6 @@
 
 ## *~Github Stats* <img src="https://raw.githubusercontent.com/ProfBramble/ProfBramble/main/flyCat.gif" width="50">
 
-<details>
-  <summary>🌵 When I'm Coding ;</summary>
-<img width="650" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula"alt="🌵">
-<img width="500" src="https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula"alt="🌵">
-</details>
 
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
