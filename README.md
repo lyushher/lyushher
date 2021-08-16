@@ -3,7 +3,7 @@
 # Hello guyss!! 👋🏻
 
 *・My name is Firdevs :)*                                                                                                                                                    
-*・I am high school student.*  [<img align="right" width="115" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)                                                                                                                                              
+*・I am high school student.*  <img align="right" width="115" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">                                                                                                                               
 *・I am most interested in programming languages..*                                                                                                                                                    
 *..butt other languages are also very interesting!!😋*
 
@@ -20,11 +20,11 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Stats* [<img src="https://raw.githubusercontent.com/ProfBramble/ProfBramble/main/flyCat.gif" width="50">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)   
+## *~Github Stats* <img src="https://raw.githubusercontent.com/ProfBramble/ProfBramble/main/flyCat.gif" width="50">
 
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)   
+![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)
 
-[![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)   
+![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)
 
 ## ~Want to see some facts?
 
