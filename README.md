@@ -24,7 +24,7 @@
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
-![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)
+[![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
 ## ~Want to see some facts?
 
