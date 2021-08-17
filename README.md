@@ -20,7 +20,7 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Stats* [<img src="https://raw.githubusercontent.com/ProfBramble/ProfBramble/main/flyCat.gif" width="50">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
+## *~Github Stats* [<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="50">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
@@ -48,4 +48,13 @@
 
 ---
 
-<img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜">  <img width="80" src="https://media0.giphy.com/media/bjE9JbNSckM0w/giphy.gif?" alt="🍜"> 
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
