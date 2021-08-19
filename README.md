@@ -7,7 +7,7 @@
 *・I am most interested in programming languages..*                                                                                                                                                    
 *..butt other languages are also very interesting!!😋*
 
-✨[*My Portfolio*](https://lyushher.carrd.co/)
+✨[*My Portfolio*](https://firdevsakbayir.carrd.co/)
 
  ## *~Languages and Tools*
 
