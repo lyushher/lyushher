@@ -26,7 +26,7 @@
 
 [![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
-## ~Want to see some facts?[<img width="90" src="https://media3.giphy.com/media/l0HlKjAZTc6NHCSdy/giphy.gif?raw=true" alt="🍜">]
+## ~Want to see some facts?
 <details>
   <summary>🌵 When I'm Coding ;</summary>
 <img width="90" src="https://media2.giphy.com/media/w6TfGhqQCvk7m/giphy.gif?"alt="🌵">
