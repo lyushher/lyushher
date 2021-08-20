@@ -20,14 +20,13 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Stats* [<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="50">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
+## *~Github Stats* [<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="40">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
 [![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
 [![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
-## ~Want to see some facts?
-
+## ~Want to see some facts?[<img width="90" src="https://media3.giphy.com/media/l0HlKjAZTc6NHCSdy/giphy.gif?raw=true" alt="🍜">]
 <details>
   <summary>🌵 When I'm Coding ;</summary>
 <img width="90" src="https://media2.giphy.com/media/w6TfGhqQCvk7m/giphy.gif?"alt="🌵">
@@ -45,16 +44,3 @@
 <img width="200" src="https://media0.giphy.com/media/hR6Q01jCXOr31wctJw/200w.webp?" alt="🐝">
 <img width="120" src="https://media1.giphy.com/media/rlKSFztwbAckcHgGwd/giphy.gif?" alt="🐝">
 </details>
-
----
-
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
-[<img width="80" src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif?raw=true" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
