@@ -5,7 +5,7 @@
 *・My name is Firdevs :)*                                                                                                                                                    
 *・I am high school student.*  [<img align="right" width="115" src="https://count.getloli.com/get/@:lyushher?theme=rule34" alt="🍜">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 *・I am most interested in programming languages..*                                                                                                                                                    
-*..butt other languages are also very interesting!!😋*
+*..butt other languages are also very interesting!! 😋*
 
 ✨[*My Portfolio*](https://firdevsakbayir.carrd.co/)
 
@@ -20,13 +20,13 @@
 
 [gmail]: mailto:firdevszsa@gmail.com
 
-## *~Github Stats* [<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="38">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
+## *~Github Stats* [<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="40">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
 
-[![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
+[<img width="73%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lyushher&line_height=21&theme=dracula">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
 
-[![Streak Card](https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula)](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)               
+[<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=dracula">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)       [<img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyushher&theme=dracula&height=&layout=compact&langs_count=100">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
 
-## ~Want to see some facts?[<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif" width="93">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
+## ~Want to see some facts?[<img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat2.gif" width="96">](https://c.tenor.com/67hWOP7slpkAAAAC/wtf-are-you-doing.gif)
 <details>
   <summary>🌵 When I'm Coding ;</summary>
 <img width="90" src="https://media2.giphy.com/media/w6TfGhqQCvk7m/giphy.gif?"alt="🌵">
