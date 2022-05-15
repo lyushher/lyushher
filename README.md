@@ -4,7 +4,7 @@
 *・My name is Firdevs :)*                                                                                                                                                    
 *・I'm high school student who will be dev.*      
 *・I am mostly interested in programming languages..*                                                                                                                                                    
-*..butt other languages are also very interesting!! 😋*
+*..butt other languages are also very interesting!!*
 
 ✨ [*My Portfolio*](https://firdevsakbayir.carrd.co/)
 
