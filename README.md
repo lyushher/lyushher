@@ -6,7 +6,6 @@
 *・I am mostly interested in programming languages..*                                                                                                                                                    
 *..butt other languages are also very interesting!!*
 
-✨ [*My Portfolio*](https://firdevsakbayir.carrd.co/)
 
 - *My life is like written with while loop without a break command...*
 
