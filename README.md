@@ -1,15 +1,10 @@
 [<img align="right" width="350" src="https://github.com/lyushher/lyushher/blob/main/gifs/spotify2.svg">](https://open.spotify.com/playlist/6aYnq5PIZ0U4biXAiAERj2?si=a81ff787dfd047a4&nd=1)
 
-
 </br>
 </br>
 
 
 # Hello Theree! 
-
-
-
-
 
 
 I have been interested in coding for 6 years.
@@ -25,7 +20,7 @@ Also my hobbies are graphic design, drawing and writing.
 
 ## *~Github Stats* <img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="38">               
 
-<img width="43%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=tokyonight">    <img width="30%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyushher&theme=tokyonight&height=&layout=compact&langs_count=100">
+<img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=tokyonight">    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyushher&theme=tokyonight&height=&layout=compact&langs_count=100">
 
 </br>
 
