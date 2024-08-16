@@ -35,10 +35,13 @@ Also my hobbies are graphic design, drawing and writing.
 
  ## *~Languages and Tools*
 
-<img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"> <img height="23" width="23" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png"> <img height="23" width="23" src="https://www.mayisbilgiislem.com/upload/120319275.png"> <img height="23" width="23" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> <img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/thumbs/eclipse-logo-vector.svg"> <img height="24" width="24" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1920px-CSS3_logo.svg.png"> <img height="23" width="23" src="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png"> <img height="24" width="24" src="https://seeklogo.com/images/C/corel-draw-2020-logo-270FEE465B-seeklogo.com.png">
+<img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"> <img height="23" width="23" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png"> <img height="23" width="23" src="https://www.mayisbilgiislem.com/upload/120319275.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> <img height="23" width="23" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> <img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/thumbs/eclipse-logo-vector.svg"> <img height="24" width="24" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1920px-CSS3_logo.svg.png"> <img height="23" width="23" src="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png"> <img height="24" width="24" src="https://seeklogo.com/images/C/corel-draw-2020-logo-270FEE465B-seeklogo.com.png">
 
 </br>
 
 - Note: I mostly use private repo :)
+
+
+
 
 
