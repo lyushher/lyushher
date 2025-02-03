@@ -8,7 +8,7 @@
 
 
 I have been interested in coding for 6 years.
-I started with Python and then worked on projects with Java, C, HTML and CSS.
+I started with Python and then worked on projects with Java, C, JS, HTML and CSS.
 The back-end part of programming attracts me more.                                                                                                                                  
 Doing research and solving problems is my biggest passion.
 I am very keen to find and implement creative solutions to ever evolving technology and increasing problems.
