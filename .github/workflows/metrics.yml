@@ -1,6 +1,9 @@
 name: Metrics
+permissions:
+  contents: write
+
 on:
-  schedule: [{ cron: "0 */12 * * *" }] 
+  schedule: [{ cron: "0 */12 * * *" }]   # günde 2 kez
   workflow_dispatch:
   push:
 
@@ -36,3 +39,30 @@ jobs:
 
           plugin_followup: yes
           plugin_followup_sections: repositories, user
+
+      - name: Generate topics only card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.topics.svg
+          base: ""
+          user: lyushher
+          plugin_topics: yes
+          plugin_topics_mode: icons
+          plugin_topics_limit: 24
+
+      - name: Generate repo card 1
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.repo-1.svg
+          template: repository
+          repo: lyushher/fastapi-url-shortener
+
+      - name: Generate repo card 2
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          filename: metrics.repo-2.svg
+          template: repository
+          repo: lyushher/Vehicle_Telemetry_and_Diagnostic_System
