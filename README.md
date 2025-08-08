@@ -1,24 +1,18 @@
 [<img align="right" width="350" src="https://github.com/lyushher/lyushher/blob/main/gifs/spotify2.svg">](https://open.spotify.com/playlist/6aYnq5PIZ0U4biXAiAERj2?si=a81ff787dfd047a4&nd=1)
 
 </br>
-</br>
 
 
 # Hello Theree! 
 
 
-I have been interested in coding for 6 years.
-I started with Python and then worked on projects with Java, C, JS, HTML and CSS.
-The back-end part of programming attracts me more.                                                                                                                                  
-Doing research and solving problems is my biggest passion.
-I am very keen to find and implement creative solutions to ever evolving technology and increasing problems.
-Also my hobbies are graphic design, drawing and writing.
+Software Engineer with 6 years of programming experience, specializing in Backend Engineering, Cloud Computing, and DevOps. Experienced in designing cloud-native architectures, distributed systems, and scalable APIs, applying Infrastructure as Code (IaC), containerization, and CI/CD pipelines to ensure reliability, security, and efficiency. Skilled in delivering solutions capable of supporting high-traffic workloads and meeting stringent uptime requirements in production environments.
 
+My expertise includes performance optimization, fault-tolerant system design and end-to-end delivery pipelines. I focus on observability and automation to maintain system health, streamline operations, and reduce downtime — enabling consistent performance at scale.
 
-- *My life is like written with while loop without a break command...*
 </br>
 
-## *~Github Stats* <img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="38">               
+## *~GitHub Contribution Metrics* <img src="https://github.com/lyushher/lyushher/blob/main/gifs/Cat1.gif" width="38">               
 
 <img width="46%" src="https://github-readme-streak-stats.herokuapp.com/?user=lyushher&theme=tokyonight">    <img width="33%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lyushher&theme=tokyonight&height=&layout=compact&langs_count=100">
 
@@ -28,15 +22,32 @@ Also my hobbies are graphic design, drawing and writing.
 
 
 
- ## *~Languages and Tools*
+ ## *~Core Technologies & Platforms*
 
-<img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/images/large/python-logo.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/PyCharm_Icon.svg/2048px-PyCharm_Icon.svg.png"> <img height="23" width="23" src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/html-icon.png"> <img height="23" width="23" src="https://www.mayisbilgiislem.com/upload/120319275.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png"> <img height="23" width="23" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"> <img height="23" width="23" src="https://brandslogos.com/wp-content/uploads/thumbs/eclipse-logo-vector.svg"> <img height="24" width="24" src="https://brandslogos.com/wp-content/uploads/images/java-logo-2.png"> <img height="23" width="23" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/1920px-CSS3_logo.svg.png"> <img height="23" width="23" src="https://forum.sublimetext.com/uploads/default/original/3X/7/4/7483840f98832d90e041a4c650e4ee0666572a1a.png"> <img height="24" width="24" src="https://seeklogo.com/images/C/corel-draw-2020-logo-270FEE465B-seeklogo.com.png">
 
-</br>
+<p align="left">
+  <!-- Backend / API -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" title="FastAPI" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="Postman" title="Postman" width="23" height="23"/>
+
+  <!-- Databases / Cache -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" title="MySQL" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" title="Redis" width="23" height="23"/>
+
+  <!-- Cloud -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" title="AWS" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/githubactions/githubactions-original.svg" alt="GitHub Actions" title="GitHub Actions" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" title="Terraform" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" title="Prometheus" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" title="Grafana" width="23" height="23"/>
+
+  <!-- Deployment / Orchestration -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" title="Nginx" width="23" height="23"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="23" height="23"/>
+</p>
+
 
 - Note: I mostly use private repo :)
-
-
-
 
 
