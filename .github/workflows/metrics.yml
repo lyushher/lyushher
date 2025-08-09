@@ -58,6 +58,9 @@ jobs:
           filename: metrics.repo-1.svg
           template: repository
           repo: lyushher/fastapi-url-shortener
+          committer_branch: main
+          committer_message: "chore(metrics): update repo 1"
+          use_prebuilt_image: yes
 
       - name: Generate repo card 2
         uses: lowlighter/metrics@latest
@@ -66,3 +69,6 @@ jobs:
           filename: metrics.repo-2.svg
           template: repository
           repo: lyushher/Vehicle_Telemetry_and_Diagnostic_System
+          committer_branch: main
+          committer_message: "chore(metrics): update repo 2"
+          use_prebuilt_image: yes
