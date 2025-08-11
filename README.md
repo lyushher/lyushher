@@ -6,7 +6,7 @@
 # Hello Theree! 
 
 
-Software Engineer with 6 years of programming experience, specializing in Backend Engineering, Cloud Computing, and DevOps. Experienced in designing cloud-native architectures, distributed systems, and scalable APIs, applying Infrastructure as Code (IaC), containerization, and CI/CD pipelines to ensure reliability, security, and efficiency. Skilled in delivering solutions capable of supporting high-traffic workloads and meeting stringent uptime requirements in production environments.
+Software Engineer with 7 years of programming experience, specializing in Backend Engineering, Cloud Computing, and DevOps. Experienced in designing cloud-native architectures, distributed systems, and scalable APIs, applying Infrastructure as Code (IaC), containerization, and CI/CD pipelines to ensure reliability, security, and efficiency. Skilled in delivering solutions capable of supporting high-traffic workloads and meeting stringent uptime requirements in production environments.
 
 My expertise includes performance optimization, fault-tolerant system design and end-to-end delivery pipelines. I focus on observability and automation to maintain system health, streamline operations, and reduce downtime — enabling consistent performance at scale.
 
