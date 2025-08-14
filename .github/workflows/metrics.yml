@@ -65,7 +65,7 @@ jobs:
           template: repository
           repo: lyushher/fastapi-url-shortener
           committer_branch: main
-          committer_message: "chore(metrics): update repo 1"
+          committer_message: "chore(metrics): update metrics [skip ci]"
           use_prebuilt_image: yes
 
       - name: Generate repo card 2
@@ -76,5 +76,5 @@ jobs:
           template: repository
           repo: lyushher/Vehicle_Telemetry_and_Diagnostic_System
           committer_branch: main
-          committer_message: "chore(metrics): update repo 2"
+          committer_message: "chore(metrics): update metrics [skip ci]"
           use_prebuilt_image: yes
